@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Muhamad Syafii
+  ~ Saturday, 21/11/2020
+  ~ Copyright (c) 2020 by SECODE.
+  ~ All Rights Reserved
+  -->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false">
+    <translate
+        android:duration="500"
+        android:fromXDelta="0%"
+        android:fromYDelta="0%"
+        android:toXDelta="-100%"
+        android:toYDelta="0%" />
+</set>

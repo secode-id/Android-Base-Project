@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Muhamad Syafii
+  ~ , 21/11/2020
+  ~ Copyright (c) 2020 by SECODE.
+  ~ All Rights Reserved
+  -->
+
+<resources>
+    <dimen name="toolbar_icon_margin">8dp</dimen>
+</resources>

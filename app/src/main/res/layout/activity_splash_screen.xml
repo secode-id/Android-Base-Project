@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Muhamad Syafii
+  ~ Saturday, 21/11/2020
+  ~ Copyright (c) 2020 by SECODE.
+  ~ All Rights Reserved
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:padding="@dimen/_26sdp"
+    tools:context=".controller.splashscreen.SplashScreenActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/splashscreen"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:textStyle="bold"/>
+</RelativeLayout>
